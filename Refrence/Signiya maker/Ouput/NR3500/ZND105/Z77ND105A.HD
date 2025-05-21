@@ -1,0 +1,16 @@
+DATA_FILENAME        Z77ND105A.DAT
+SITE_ID              Z77ND105A
+SITE_NAME            Z77ND105A
+SITE_LONGITUDE       50.2084
+SITE_LATITUDE        26.2702
+SITE_TYPE            0
+TX_AZIMUTH           30
+TX_TILT              0
+TX_HEIGHT            20.0
+TX_POWER             46
+ANTENNA_TYPE         AAU5648 
+FEEDER_TYPE          Fiber
+FEEDER_LENGTH        Feeder less
+CONNECTOR_LOSS       1
+FREQUENCY            NR3500
+OPERATOR             STC
